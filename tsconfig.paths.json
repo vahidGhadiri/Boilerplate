@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@src": ["./src"],
+      "@features/dashboard": ["./src/features/dashboard"],
+      "@features/login": ["./src/features/login"],
+      "@assets/colors": ["./src/assets/colors"],
+      "@components": ["./src/components"],
+      "@constants": ["./src/constants"],
+      "@features": ["./src/features"],
+      "@services": ["./src/services"],
+      "@hooks": ["./src/utils/hooks"],
+      "@router": ["./src/router"],
+      "@config": ["./src/config"],
+      "@utils": ["./src/utils"],
+      "@core": ["./src/core"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

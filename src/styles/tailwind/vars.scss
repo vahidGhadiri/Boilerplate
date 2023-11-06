@@ -1,0 +1,24 @@
+:root {
+  // Border Size
+  --border-thin: 0.5px;
+  --border-regular: 1px;
+  --border-bold: 2px;
+
+  // Border Radius
+  --default-radius: 10px;
+  --circular-radius: 3000px;
+  --hard-radius: 0;
+
+  // Border Color
+  --border-main-color: #718e9c;
+
+  // Border Style
+  --border-solid: solid;
+  --border-dashed: dashed;
+
+  //   Lang configuration
+  --direction: rtl;
+  --align: right;
+  --font-family: iranyekan;
+  --line-height: 1.5;
+}

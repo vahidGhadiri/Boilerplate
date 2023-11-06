@@ -1,0 +1,138 @@
+@layer base {
+  @font-face {
+    font-family: iranyekanEnNum;
+    font-style: normal;
+    font-weight: 300;
+    src: url("/fonts/fa/mobile-based-font/woff/IRANYekanMobileLight.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-font/ttf/IRANYekanMobileLight.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekanEnNum;
+    font-style: normal;
+    font-weight: normal;
+    src: url("/fonts/fa/mobile-based-font/woff/IRANYekanMobileRegular.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-font/ttf/IRANYekanMobileRegular.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekanEnNum;
+    font-style: normal;
+    font-weight: 500;
+    src: url("/fonts/fa/mobile-based-font/woff/IRANYekanMobileMedium.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-font/ttf/IRANYekanMobileMedium.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekanEnNum;
+    font-style: normal;
+    font-weight: bold;
+    src: url("/fonts/fa/mobile-based-font/woff/IRANYekanMobileBold.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-font/ttf/IRANYekanMobileBold.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekanEnNum;
+    font-style: normal;
+    font-weight: 800;
+    src: url("/fonts/fa/mobile-based-font/woff/IRANYekanMobileExtraBold.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-font/ttf/IRANYekanMobileExtraBold.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 300;
+    src: url("/fonts/fa/mobile-based-fa-num/woff/IRANYekanMobileLight.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-fa-num/ttf/IRANYekanMobileLight.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url("/fonts/fa/mobile-based-fa-num/woff/IRANYekanMobileRegular.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-fa-num/ttf/IRANYekanMobileRegular.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 500;
+    src: url("/fonts/fa/mobile-based-fa-num/woff/IRANYekanMobileMedium.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-fa-num/ttf/IRANYekanMobileMedium.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: bold;
+    src: url("/fonts/fa/mobile-based-fa-num/woff/IRANYekanMobileBold.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-fa-num/ttf/IRANYekanMobileBold.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 800;
+    src: url("/fonts/fa/mobile-based-fa-num/woff/IRANYekanMobileExtraBold.woff")
+        format("woff"),
+      url("/fonts/fa/mobile-based-fa-num/ttf/IRANYekanMobileExtraBold.ttf")
+        format("truetype");
+  }
+
+  /** font GOTHIC**/
+
+  @font-face {
+    font-family: "gothic";
+    font-style: normal;
+    font-weight: 300;
+    src: url("/fonts/Century/GOTHIC.woff");
+  }
+
+  @font-face {
+    font-family: "gothic";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/Century/GOTHICB.woff");
+  }
+
+  @font-face {
+    font-family: "gothic";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/Century/GOTHICB.woff");
+  }
+
+  @font-face {
+    font-family: "gothic";
+    font-style: italic;
+    font-weight: 500;
+    src: url("/fonts/Century/GOTHICI.woff");
+  }
+
+  @font-face {
+    font-family: "gothic";
+    font-style: oblique;
+    font-weight: 700;
+    src: url("/fonts/Century/GOTHICBI.woff");
+  }
+}

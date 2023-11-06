@@ -1,0 +1,73 @@
+@layer base {
+  body {
+    font-family: iranyekan;
+    height: 100vh;
+    font-size: $base-font-size;
+    text-align: right;
+    direction: rtl;
+    padding: 0;
+    margin: 0;
+    color: $on-light-bg;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-drag: none;
+  }
+
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  input,
+  textarea,
+  button,
+  a {
+    font-family: iranyekan;
+    margin: 0;
+  }
+
+  input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+
+  *,
+  button:focus {
+    outline: none;
+  }
+
+  a {
+    text-decoration: none;
+    color: $primary;
+  }
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  figure {
+    margin: 0;
+    padding: 0;
+  }
+
+  .dir-ltr {
+    direction: ltr;
+  }
+
+  .dir-rtl {
+    direction: rtl;
+  }
+
+  image {
+    display: inline-block;
+  }
+}
